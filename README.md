@@ -1,5 +1,5 @@
 # WeatherForecastPractice
-Using Visual Studio and Swagger, I created a program in C# to gain familiarity with the language and practice using a Web Application (Swagger). Worked with interfaces, enumberables vs static variables, IActionResult for BadRequests(), HTTPGet, Model Binding, Controllers, and more to begin working with C#. 
+Using Visual Studio and Swagger, I created a program in C# to gain familiarity with the language and practice using a Web Application (Swagger). Worked with interfaces, null-coalescing, optional paramters, Model Minding, HTTPGet, enumberables vs static variables (lists) IActionResult for BadRequests(), Controllers, and more to begin working with C#. 
 
 ## Includes
 - Weather forecast for current day
